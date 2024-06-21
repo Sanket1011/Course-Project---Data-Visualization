@@ -1,1 +1,3 @@
-# Course-Project---Data-Visualization
+# A Deep Dive into Canada's Real Estate Evolution
+
+This project provides a comprehensive analysis of the Canadian real estate market over the past two decades, focusing on price and size trends of condos, houses, and apartments in major Canadian cities. Key findings include significant price increases for houses and apartments, especially in Vancouver and Toronto, and a decrease in the average size of apartments and condos due to rising costs and a shift towards compact living. House sizes have remained stable with slight increases in some cities. These insights are valuable for stakeholders making property investment decisions. Connect with me on <a href="https://www.linkedin.com/in/sanket-ruia/">LinkedIn</a>
